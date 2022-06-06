@@ -8,6 +8,7 @@ function multiplyFun(num1, num2) {
 
 }
 
+
 function randomNumber(){
     let myRandomNumber = Math.floor(Math.random() * 10) + 1;
     return myRandomNumber;
